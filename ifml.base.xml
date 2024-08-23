@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?>
+    <core:IFMLModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://www.omg.org/spec/20130218/core" xmlns:ext="http://www.omg.org/spec/20130218/ext" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" id="_MbSbMEguEe-ozvT84OqzfA">
+    <interactionFlowModel id="_TEpU0EguEe-ozvT84OqzfA">
+        <interactionFlowModelElements xsi:type="ext:IFMLMenu" id="_TEvbcEguEe-ozvT84OqzfA" name="Menu">
+        <viewElements xsi:type="ext:Details" id="_Vyj3IEgvEe-ozvT84OqzfA" name="Button"/>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_cYWkUFAPEe-bOcSbBRf5tA" name="ViewContainer">
+      <viewElements xsi:type="core:ViewComponent" id="_dDlSoFAPEe-bOcSbBRf5tA" name="Button"/>
+    </interactionFlowModelElements>
+    <interactionFlowModelElements xsi:type="core:ViewContainer" id="_idhLwFAPEe-bOcSbBRf5tA" name="ViewContainer">
+      <viewElements xsi:type="core:ViewComponent" id="_jguVMFAPEe-bOcSbBRf5tA" name="Button"/>
+      <viewElements xsi:type="core:ViewComponent" id="_m8-ZoFAPEe-bOcSbBRf5tA" name="Button"/>
+    </interactionFlowModelElements>
+  </interactionFlowModel>
+  <domainModel id="_MbSbMUguEe-ozvT84OqzfA">
+    <domainElements xsi:type="core:UMLDomainConcept" id="_MbTpUEguEe-ozvT84OqzfA">
+      <classifier xsi:type="uml:Device" href="MyUml.uml#_Exbt4EguEe-ozvT84OqzfA"/>
+    </domainElements>
+  </domainModel>
+</core:IFMLModel>

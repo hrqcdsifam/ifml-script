@@ -1,0 +1,59 @@
+{
+    "projectName": "Project 1",
+    "Autor": "Madson Lemos",
+    "ihm": {
+        "model": "model1",
+        "width": 400,
+        "height": 400,
+        "orientation": "landscape"
+    },
+    "screens": [
+        {
+            "typeComponent": "screen",
+            "id": "_cYWkUFAPEe-bOcSbBRf5tA",
+            "name": "ViewContainer",
+            "childs": [
+                {
+                    "typeComponent": "ButtonWithLabel",
+                    "id": "_dDlSoFAPEe-bOcSbBRf5tA",
+                    "name": "button",
+                    "width": 100,
+                    "height": 50,
+                    "title": "Button",
+                    "color": "white",
+                    "backgroundColor": "blue",
+                    "fontSize": 10
+                }
+            ]
+        },
+        {
+            "typeComponent": "screen",
+            "id": "_idhLwFAPEe-bOcSbBRf5tA",
+            "name": "ViewContainer",
+            "childs": [
+                {
+                    "typeComponent": "ButtonWithLabel",
+                    "id": "_jguVMFAPEe-bOcSbBRf5tA",
+                    "name": "button",
+                    "width": 100,
+                    "height": 50,
+                    "title": "Button",
+                    "color": "white",
+                    "backgroundColor": "blue",
+                    "fontSize": 10
+                },
+                {
+                    "typeComponent": "ButtonWithLabel",
+                    "id": "_m8-ZoFAPEe-bOcSbBRf5tA",
+                    "name": "button",
+                    "width": 100,
+                    "height": 50,
+                    "title": "Button",
+                    "color": "white",
+                    "backgroundColor": "blue",
+                    "fontSize": 10
+                }
+            ]
+        }
+    ]
+}
